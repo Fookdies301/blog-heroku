@@ -10,6 +10,6 @@
 
 > 5.本项目是一个[hexo](https://hexo.io/zh-cn/)部署到git后转[heroku](https://www.heroku.com/)的模板。
 ``` bash
-需要 composer.json、runtime.txt、Procfile
+需要 Procfile
 如果一键部署还需要 README.md、app.json
 ```
