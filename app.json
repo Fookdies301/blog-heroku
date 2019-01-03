@@ -1,0 +1,9 @@
+﻿{
+  "name": "Point",
+  "description": "A free blog[Written in PHP]",
+  "website": "https://Fookdies301.github.io/blog/",
+  "repository": "https://github.com/Fookdies301/blog-heroku",
+  "success_url": "/",
+  "env":{
+  }
+}
