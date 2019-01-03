@@ -5,7 +5,7 @@
     "ext-mbstring": "*",
     "ext-sqlite3": "*",
     "ext-imagick": "*"
-    "apache": "2.4.*"
-    "nginx": "1.8.*"
+    "apache": "2.4.37"
+    "nginx": "1.8.1"
   }
 }
