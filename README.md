@@ -12,4 +12,5 @@
 ``` bash
 需要 Procfile
 如果一键部署还需要 README.md、app.json
+可以不需要 content.json
 ```
